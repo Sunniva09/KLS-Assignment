@@ -19,11 +19,11 @@
        
 </div>
 
-<p1>  Welcome on our website ! </p1>
+<p1>  <br> <br> <br>Welcome on our website ! </p1>
 
     <?php
         echo "<br> <br> <br> <img src= 'pinkie.jpg' width=150 style='cursor:pointer; border:0;'><br>";
-        echo "We are here to sell you some good product<br>";
+        echo "We are here to sell you some good products<br>";
     ?>
 
 

@@ -11,17 +11,17 @@ if(isset($_SESSION["username"]))
 else
 {
 ?>
-	<html>
-		<header>
-
+	<div>
 			<div id="titre_accueil">
 			</div>
 			        <li><a href="LoginPage.php" id="accueil">Connexion</a></li>
 			        <li><a href="RegisterPage.php">No account yet ? Click here !</a></li>
 			</div> 
-		</header>
-	</html>
+	</div>
 <?php
 }
 ?>
+
+<a href="BusinessInfo.php" id="accueil">About us</a>
+<br> <br> <br>
 
